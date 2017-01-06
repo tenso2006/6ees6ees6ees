@@ -1,0 +1,22 @@
+{
+  "name": "hrsf53-6ees6ees6ees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenso2006/hrsf53-6ees6ees6ees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenso2006/hrsf53-6ees6ees6ees/issues"
+  },
+  "homepage": "https://github.com/tenso2006/hrsf53-6ees6ees6ees#readme"
+}
